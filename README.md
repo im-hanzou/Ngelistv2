@@ -10,4 +10,4 @@ python2 -m pip install requests colorama termcolor<br>
 apt install php-cli php-curl<br>
 Windows? u can use xampp 
 # Video tutor
-<a href="">Disini</a>
+<a href="https://www.facebook.com/6lucifer9/videos/1658109897859438">Disini</a>
