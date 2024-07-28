@@ -11,3 +11,6 @@ apt install php-cli php-curl<br>
 Windows? u can use xampp 
 # Video tutor
 <a href="https://www.facebook.com/6lucifer9/videos/1658109897859438">Disini</a>
+# New ReverseIP
+- https://github.com/im-hanzou/CRev2
+- https://github.com/im-hanzou/RRev
